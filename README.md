@@ -60,3 +60,7 @@ The pipeline includes **data preprocessing, model training, prediction, evaluati
 ## 👩‍💻 Author
 **Ayushi Verma**  
 B.Tech in AI & ML, Ajay Kumar Garg Engineering College, Ghaziabad
+
+⚠️ Note: Full datasets (spam.csv, spam_predictions.csv) exceed GitHub’s 100 MB limit.
+They are excluded from this repository. 
+Download them from https://www.kaggle.com/datasets/wcukierski/enron-email-dataset?resource=download and https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset.
