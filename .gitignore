@@ -1,0 +1,12 @@
+# Ignore large dataset files
+data/spam.csv
+data/spam_predictions.csv
+
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
